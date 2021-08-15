@@ -3,3 +3,5 @@ flappy/flappy.sfc
 flappy/flappy.sym
 flappy/linkfile
 flappy/pvsneslibfont.pic
+bin/flappy.cpu.sym
+bin/flappy.smp.sym
